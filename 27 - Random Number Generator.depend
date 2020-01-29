@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1580295891 source:c:\users\zain ahmed\google drive\code\buckys the new boston\27 - random number generator\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
